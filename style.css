@@ -1,0 +1,99 @@
+@charset "UTF-8";
+
+html {
+    margin: 0;
+    padding: 0;
+    font-size:12px;
+    
+}
+
+.makeupbymaha {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    max-width: 35rem;
+    margin-top:5rem;
+    transition: 0.5s;
+    margin-bottom: 3rem;
+}
+
+nav { 
+
+    color: #997b73;
+    overflow: hidden;
+    width: auto;
+    text-align: center;
+    
+}
+
+nav ul {
+    list-style: none;
+    overflow: auto;
+    height: auto;
+    margin:5px;
+
+
+}
+
+nav li {
+    font-size: 1.25rem;
+    display: inline-block;
+    margin: 0 15px;
+
+
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    font-family: 'Nunito', sans-serif;
+    letter-spacing: 1px;
+}
+
+nav a:hover {
+    color: #997b73;
+    transition-duration: 400ms;
+}
+
+
+p{
+    text-align: center;
+    font-size: 1.25rem;
+    margin-top: 10rem;
+    margin-top: 5rem;
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.5;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80rem;
+    padding: 3rem 1.5em;
+}
+
+nav ul {
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+
+main li {
+    background-color: #997b73;
+    font-family: 'Nunito', sans-serif;
+    padding: 1rem 3rem;
+    display: block;
+    text-align: center; 
+    width: 10rem; 
+    margin: 3rem;
+}
+
+main a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.25rem;
+}
+
+
+main a:hover {
+    color: black;
+    transition-duration: 400ms;
+}
